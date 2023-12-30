@@ -1,0 +1,46 @@
+body
+{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+table 
+{
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 70%;
+  border: 1px solid #ddd;
+}
+.center
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th, td 
+{
+  text-align: left;
+  padding: 20px;
+  font-size: 19px;
+  font-style: italic;
+}
+
+tr:nth-child(odd) 
+{
+  background-color: lightpink;
+}
+img 
+{
+  border: 5px solid rosybrown;
+}
+h4
+{
+  color: maroon;
+}
+.footer
+{
+  background-color: ghostwhite;
+  color: maroon;
+  text-align: center;
+  padding: 0.5em;
+  bottom: 2px;
+}

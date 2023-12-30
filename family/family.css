@@ -1,0 +1,12 @@
+img 
+{
+  border: 5px solid #555;
+}
+.footer 
+{
+  background-color: ghostwhite;
+  color: maroon;
+  text-align: center;
+  padding: 0.5em;
+  bottom: 2px;
+}
